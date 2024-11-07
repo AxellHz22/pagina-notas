@@ -4,7 +4,7 @@ import styled from "styled-components";
 function Navbar() {
   return (
     <NavContainer>
-      <h2>Colmena de <span>Tareas</span></h2>  
+      <h1>Colmena de <span>Tareas</span></h1>  
     </NavContainer>
   );
 }
